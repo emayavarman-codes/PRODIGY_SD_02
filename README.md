@@ -16,12 +16,12 @@ A fun and interactive console-based game developed using Java where the player t
 
  Concepts Used:
  
-1.Control flow (if, else, while, for)
+1. Control flow (if, else, while, for)
 
-2.User input handling with Scanner
+2. User input handling with Scanner
 
-3.Random number generation
+3. Random number generation
 
-4.Functions and modular design
+4. Functions and modular design
 
-5.Exception handling (try-catch)
+5. Exception handling (try-catch)
